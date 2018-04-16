@@ -1,0 +1,13 @@
+name: widgets
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab=0.31.10
+  - ipywidgets=7.1.2
+  - ipyvolume=0.4.5
+  - bqplot=0.10.2
+  - plotly=2.4.1
+  - ipyleaflet=0.7.1
+prefix: /root/miniconda3
+
