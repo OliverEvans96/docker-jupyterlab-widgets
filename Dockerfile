@@ -11,7 +11,7 @@ RUN conda install -c conda-forge bqplot=0.10.2
 RUN conda install -c conda-forge plotly=2.4.1
 RUN conda install -c conda-forge ipyleaflet=0.7.1
 
-RUN pip install python-igraph==0.7
+RUN pip install python-igraph
 
 RUN jupyter labextension install \
     @jupyter-widgets/jupyterlab-manager@0.35.0 \
