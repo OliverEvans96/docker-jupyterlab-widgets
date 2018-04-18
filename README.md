@@ -8,3 +8,9 @@ Docker image with compatible versions of [JupyterLab](https://github.com/jupyter
 - [IPyLeaflet](https://github.com/jupyter-widgets/ipyleaflet)
 
 Also, [vim keybindings!](https://github.com/jwkvam/jupyterlab_vim)
+
+To run, try:
+
+```
+docker run -p 8888:8888 oliverevans96/jupyterlab-widgets
+```
