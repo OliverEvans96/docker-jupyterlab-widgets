@@ -6,3 +6,5 @@ Docker image with compatible versions of [JupyterLab](https://github.com/jupyter
 - [bqplot](https://github.com/bloomberg/bqplot)
 - [Plotly](https://github.com/plotly/plotly.py)
 - [IPyLeaflet](https://github.com/jupyter-widgets/ipyleaflet)
+
+Also, [vim keybindings!](https://github.com/jwkvam/jupyterlab_vim)
